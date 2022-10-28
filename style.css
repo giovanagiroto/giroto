@@ -1,4 +1,13 @@
- #banner{
+nav ali {
+	display: inline;
+	text-decoration: none;
+	text-transform: uppercase;
+	
+}
+
+
+
+#banner{
  	width: 100%:
  }
 
