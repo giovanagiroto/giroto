@@ -6,6 +6,17 @@ nav li {
 	padding-right: 5%;
 	
 }
+nav {
+	width: 940px;
+
+}
+
+nav a{
+	font-weight: lighter;
+	font-size: 35px;
+	text-decoration: none;
+	color: black;
+}
 
 
 
