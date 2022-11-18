@@ -18,6 +18,10 @@ nav a{
 	color: black;
 }
 
+nav a:hover {
+	color: beige;
+	text-decoration: underline;
+}
 
 
 #banner{
